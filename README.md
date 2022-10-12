@@ -1,6 +1,6 @@
 # How to Create a Zip File
 
-[![how to create a zip file](redd.png)](https://github.com/tech-webie/how.to.create.a.zip.file)
+[![how to create a zip file](redd.png)](https://icncomputer.com/how-to-create-a-zip-file/)
 
 
 **You can compress files in Windows easily using File Explorer. Here's how:**
